@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Web<br>📱 Mobile Developer<br>🌱 I’m currently learning Flutter<br><br>⚡ Fun fact<br>  🎮 Game Addict<br>  🎶 Music Lover
+🔭 Heylo, I'm Atnan<br>📱 Mobile Developer<br>🌱 I’m currently learning Flutter<br><br>⚡ Fun fact:<br>  🎮 I'm a Game Addict<br>  🎶 and a Music Lover
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Justatnann&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Justatnann&icon=0&color=10)](https://visitcount.itsvg.in)
