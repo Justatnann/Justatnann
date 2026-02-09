@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Heylo, I'm Atnan<br>📱 Mobile Developer<br>🌱 I’m currently learning Flutter<br><br>⚡ Fun fact:<br>  🎮 I'm a Game Addict<br>  🎶 and a Music Lover
+🔭 Heylo, I'm Atnan<br>📱 Mobile Developer<br>🌱 I’m learning to be Better<br><br>⚡ Fun fact:<br>  🎮 I'm a Game Addict<br>  🎶 and a Music Lover
 
 
 ## 🌐 Socials:
