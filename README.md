@@ -1,5 +1,3 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div data-importer="techs" align="center"><h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
