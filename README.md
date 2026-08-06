@@ -29,12 +29,12 @@
 
 ###
 
-<div align="center">
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Justatnann&show_icons=true&theme=dracula&hide_border=true" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Justatnann&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
 
-  <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Justatnann&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Justatnann&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+
+   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Justatnann&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ###
