@@ -29,9 +29,15 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Justatnann&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Justatnann/Justatnann/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Justatnann&show_icons=true&theme=dracula&hide_border=true&count_private=true"
+    height="170"
+    alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justatnann&layout=compact&theme=dracula&hide_border=true"
+    height="170"
+    alt="Top Languages" />
 </div>
 
 ###
