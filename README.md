@@ -29,15 +29,12 @@
 
 ###
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Justatnann&show_icons=true&theme=dracula&hide_border=true&count_private=true"
-    height="170"
-    alt="GitHub Stats" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justatnann&layout=compact&theme=dracula&hide_border=true"
-    height="170"
-    alt="Top Languages" />
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Justatnann&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Justatnann&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justatnann&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 ###
